@@ -23,3 +23,4 @@
 ## 🧩 High Availability
 - Services stay online even if a component fails.
 - Designed for minimal downtime.
+- 
